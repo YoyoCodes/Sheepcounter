@@ -4,4 +4,4 @@ Sheep herding is a really tough business. Luckily this modest JS + Redux app wil
 He just needs to:  
 - `clone` the repo
 - run `npm install`
-- then `node Icount.js`  
+- then `node iCount.js`  
